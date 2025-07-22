@@ -1,4 +1,4 @@
-# Skillcraft---stopwatch
+Skillcraft---stopwatch
 Slide 1: Title Slide
 
 Title: Stopwatch Web Application
